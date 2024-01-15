@@ -1,14 +1,1 @@
-# Xyris's-privacy policy 
-WHAT DATA DO WE STORE?
-We do not collect any personal information relating your account like Passwords or any other Credentials. The data we collect includes the User IDs, Server IDs, Channel IDs and Some Role IDs. The bot never requests for any personal data of the users and any act that breaks the Tos of Discord is discouraged by us!
-WHY WE NEED THIS DATA?
-The data is required for the proper functioning of the bot features like Logging and Blacklisting. Without this data, our bot will not be able to perform these activities and thus making the features inaccessible for users
-HOW DO WE USE THIS DATA?
-The data is used for the proper functioning like User IDs are used to identify the users
-HOW LONG DO WE STORE YOUR DATA?
-The data is stored as long as the bot is in your Server and as soon as the bot is kicked or removed from the Server, the data is deleted and is no longer to accessable to anyone
-WHO DO WE SHARE THE DATA WITH?
-We never share your data with anyone except for MongoDB Inc whom is a DataBase Company and all the data for our Bot is stored on the MongoDB Servers and According to MongoDB Inc. the data is only accessable by us.
-GOT CONCERNS OR QUERIES?
-If you have any concerns or queries relating our privacy policy or our bot or if you want your data to be removed, You can contact onyx1728 directy on our Support Server!
-
+![image](https://github.com/MrAdminAccount/-MrNoe-privacypolicy-/assets/86154676/75425d1b-6a38-4b93-bf30-4b2590a3469f)
